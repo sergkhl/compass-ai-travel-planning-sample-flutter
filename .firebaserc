@@ -1,10 +1,12 @@
 {
-  "projects": {},
+  "projects": {
+    "default": "universe-matter-media"
+  },
   "targets": {},
   "etags": {},
   "dataconnectEmulatorConfig": {
     "postgres": {
-      "localConnectionString": "postgresql://user:mypassword@localhost:5432/dataconnect?sslmode=disable"
+      "localConnectionString": "postgresql://quantum_craft@localhost:5432/dataconnect?sslmode=disable"
     }
   }
 }

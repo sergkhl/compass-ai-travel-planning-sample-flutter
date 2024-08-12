@@ -1,0 +1,39 @@
+---
+model: googleai/gemini-1.5-flash-latest
+config:
+  temperature: 0.6
+  # topK, etc...
+input:
+  schema:
+    description: string
+output:
+  format: json
+  schema:
+    destinations(array, a list of suggested activities):
+      duration: number, activity duration in hours
+      timeOfDay: string, best time of the day for activity "morning", "afternoon", "evening"
+      commuting: number, time in hours to commute from closest large city
+      locationName: string, name of the location
+      price: number, estimate price in scale from 0 to 10
+      familyFriendly: boolean, is it possible to participate with kids
+      # knownFor: string, a three-sentence description enticing the user to pick this vacation
+      country: string, country for the selected destination
+      continent: string, continent for the selected destination
+      imageUrl: string, imageUrl for the selected destination
+      name: string, name for the selected destination
+      ref: string, the reference id of the selected destination
+      visit: string, time to visit
+      tips: string, recommendations and tips from captions
+      videoUrl(array, a video url list from which info generated): string
+---
+
+Extract Activities from video captions.
+1. Landmarks and Attractions
+2. Hidden Cultural Experiences
+3. Best time to visit
+4. Traveler Tips and Recommendations
+5. Activity duration
+6. Commute duration from closest largest city
+7. Cost information
+
+Use following video captions: {{description}}

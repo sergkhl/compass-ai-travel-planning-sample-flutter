@@ -1,0 +1,42 @@
+---
+model: googleai/gemini-1.5-flash-latest
+config:
+  temperature: 0.6
+  # topK, etc...
+input:
+  schema:
+    description: string
+output:
+  format: json
+  schema:
+    activities(array, a list of suggested activities):
+      duration: number, activity duration in hours
+      description: string, description of the activity
+      timeOfDay: string, best time of the day for activity ("morning", "afternoon", "evening")
+      locationName: string, name of the location
+      price: number, estimated price on a scale from 0 to 10
+      familyFriendly: boolean, indicates if the activity is suitable for families with children
+      country: string, country where the destination is located
+      imageUrl: string, image URL for the destination
+      name: string, name of the activity or destination
+      ref: string, unique reference ID for the destination
+      visit: string, best months or time of year to visit
+      tips: string, recommendations and tips derived from the captions
+      videoUrl(array, a list of video URLs from which the information was extracted): string
+---
+
+Extract detailed activity information from the provided video captions to generate a list of suggested activities. The extraction should focus on:
+
+1. Identifying key Landmarks and Attractions.
+2. Highlighting Hidden Cultural Experiences.
+3. Determining the Best Time of Day to visit each activity ("morning", "afternoon", "evening").
+4. Recommending the Best Months to visit the destination.
+5. Including Traveler Tips and Recommendations that provide unique insights.
+6. Estimating the Duration of each activity in hours.
+7. Providing Cost Information, rated on a scale from 0 (free) to 10 (very expensive).
+8. Indicating whether each activity is Family Friendly.
+9. Assigning each activity to its respective Country and Continent.
+10. Collecting relevant Image URLs that visually represent the destination.
+11. Including Video URLs as references for the extracted information.
+
+Use the following video captions to perform this extraction: {{description}}

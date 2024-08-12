@@ -1,11 +1,11 @@
 {
-    "sqltools.connections": [
-        {
-            "previewLimit": 50,
-            "server": "localhost",
-            "driver": "PostgreSQL",
-            "connectString": "postgresql://user:mypassword@localhost:5432/dataconnect?sslmode=disable",
-            "name": "dataconnect"
-        }
-    ]
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "driver": "PostgreSQL",
+      "connectString": "postgresql://quantum_craft@localhost:5432/dataconnect?sslmode=disable",
+      "name": "dataconnect"
+    }
+  ]
 }

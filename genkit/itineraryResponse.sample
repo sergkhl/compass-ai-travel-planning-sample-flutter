@@ -1,0 +1,1259 @@
+{
+  "itineraries": [
+    {
+      "place": "Kyrgyzstan",
+      "itineraryName": "Kyrgyzstan's Majestic Mountains",
+      "startDate": "2024-06-01",
+      "endDate": "2024-06-15",
+      "tags": [
+        "nature",
+        "hiking",
+        "mountains",
+        "low-cost"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "date": "2024-06-01",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Frunze Super Market",
+              "activityDesc": "Supermarket with local snacks",
+              "photoUri": "places/ChIJMcUI7DO2njgRyjKZzBVBZ34/photos/AelY_CsvBMOf-_KQ57XhGCfC7__yGWnvKajjhk5v3FBt-LkkPm01g-h8PydyjI7wHr3eTk0n3-JeQSONpxCC43Cd7iR-5gwX0hezTTeNqHQ2NPtfvnvr6v0pi9vgDTDMnog2K8VJn0pZ4VKJtvHuYA3-n350BngASu__Xi0",
+              "googleMapsUri": "https://maps.google.com/?cid=9108320333262828234",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqFgXMy1tqgXBJvx2KcnBd1EHv_wV9yNs-HTTWyjfINKK79dGhJ-4PlKj9cuKoJRhlH5vMMWVMrE52NyjgQlW9m9ypMw_GSMtg=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Ala-Kul Lake Trek",
+              "activityTitle": "Ala-Kul Lake",
+              "activityDesc": "Spectacular mountain lake trek",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Ala-Kul Lake Trek.jpg"
+            },
+            {
+              "activityRef": "Ala Archa National Park",
+              "activityTitle": "Ala Archa",
+              "activityDesc": "Impressive mountain scenery hike",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Ala Archa National Park.jpg"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "date": "2024-06-02",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Narodniy",
+              "activityDesc": "Experience local cuisine",
+              "photoUri": "places/ChIJ77KJ9SLInjgR_XpGGm1otlQ/photos/AelY_CshQ6LlnVGWFHOYV86Vkae72Pi_j36_c21sgFcK2P-IB8LO97tGsbcaJkXIsj6d1nNGzWnDvxZS5OsCS-xtORRiRNzvRx2nR_S9VCLQI0TMXC-SmNiZMppfhVdEgVrghDi_ozqBzQdqJKobI4yJU2zqcaZg0sajeJGS",
+              "googleMapsUri": "https://maps.google.com/?cid=6104181162748836605",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqE3IiJn_VJDS2omD-s4lvq5QZBsVNDDc9-Ivxok3hbuubCT8Q5KO_L0i5O4VD2j-xgmzaH1RIyPVwBjWdZ72AzjRcreZBR0fV8=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Seven Thousand Peaks",
+              "activityTitle": "Seven Thousand",
+              "activityDesc": "Challenge yourself on trail",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Seven Thousand Peaks.jpg"
+            },
+            {
+              "activityRef": "Burana Tower",
+              "activityTitle": "Burana Tower",
+              "activityDesc": "Ancient tower explore history",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Burana Tower.jpg"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "date": "2024-06-03",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Alma Hypermarket",
+              "activityDesc": "Explore local groceries",
+              "photoUri": "places/ChIJVTHJOMe3njgRvIRpd7OR2zI/photos/AelY_Cv0gFL6Euy_rKV1XCLCJ_sz22MJFtz4OfL1-FWpip2nofGpfYnbWgConEvaMqih1183_nNuKHO3EN2RaTHH8u7I23DpA7DTCFbho0Mb6wZO2MahijbGDDccABVoQJV4A532WcqJCwqqH5wYTHJma918CXwoLsFgt4Gv",
+              "googleMapsUri": "https://maps.google.com/?cid=3664682921784607932",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqFfctcKHgsCh9t2BaMioPaSu3Q3ixVfW3gD4w4ukQ3eIPZNMDx95AMuP6cv8fZiMk0qL4PFWn94bYLlaHWwBayqrkcDTxJY4Fw=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Song-Kul Lake",
+              "activityTitle": "Song-Kul Lake",
+              "activityDesc": "Tranquil alpine lake views",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Song-Kul Lake.jpg"
+            },
+            {
+              "activityRef": "Issyk-Kul Lake",
+              "activityTitle": "Issyk-Kul",
+              "activityDesc": "Largest mountain lake Kyrgyz",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Issyk-Kul Lake.jpg"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "date": "2024-06-04",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Globus Supermarket",
+              "activityDesc": "Supermarket with fresh food",
+              "photoUri": "places/ChIJzXRJh6e3njgRIwXrJcdrn2E/photos/AelY_CtSQDSbHHCiD78dtZZjMtjPQ9XNZm8tOmrtZi5cDIk2GnLcCHbSdyrf5_Z2LyM5_ekyjEg5tUZSrXVV6um6WMwmsdGI2YaLpUGKlPymGttTv3g5qfDMUTPxjFzuNJgqPbX5DJHfEAopigOLCodBeZf8zmJEzyfGs0N6",
+              "googleMapsUri": "https://maps.google.com/?cid=7034459646054827299",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqEVo80qarXBQRpmnTZGJJT65n0TTOQ9q9U17FOnMCvS9jbkU3bGV9EbQpOB26C7G4s3iR7IlqIuzeDH_Vu2a1j7GbgPSEC9vFc=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Hiking in Tian Shan",
+              "activityTitle": "Tian Shan Hike",
+              "activityDesc": "Explore diverse mountain trails",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Hiking in Tian Shan.jpg"
+            },
+            {
+              "activityRef": "Horseback Riding",
+              "activityTitle": "Horseback Ride",
+              "activityDesc": "Explore countryside horseback",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Horseback Riding.jpg"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "date": "2024-06-05",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Globus Ak Bosogo",
+              "activityDesc": "Supermarket with local goods",
+              "photoUri": "places/ChIJfZIsDYjHnjgRQgEv1trYvYU/photos/AelY_CuqQNcdXsQgS0tM7srThQCYjkPmYIjK6s4YnZrgTBFXOYF3QURYd_MidWo-Rryfa1FFx2YGXl5S_nftIVWO7Yfd-Vc-g5ngg5cdLEHW4464D3GNhyti3zlfJgVPiRZf13kmz5aZdImWxP_06GgK_W6Yf_qALyAzraMV",
+              "googleMapsUri": "https://maps.google.com/?cid=9637097212050604354",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqFxJEoAQMsUouMW4ibhnFhnVgkxxUw7GvcU900rGHH52XyhRCQP_oZBHeoxgOkuu1E_SqmR3WBv4m8BrV30jSxcW_VLTerV35U=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Hot Springs",
+              "activityTitle": "Relax in Springs",
+              "activityDesc": "Soak in mineral-rich waters",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Hot Springs.jpg"
+            },
+            {
+              "activityRef": "Local Markets",
+              "activityTitle": "Discover Markets",
+              "activityDesc": "Browse local crafts and food",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Local Markets.jpg"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "date": "2024-06-06",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "FAMILY MARKET",
+              "activityDesc": "Local supermarket experience",
+              "photoUri": "places/ChIJBb7AAPHLnjgR_HR_s4SMwgw/photos/AelY_CtdNdRfNZk-no5YBF04YKe1Es7bfFQRxfjJ7JlBWDKa-_ZPGfG24z406jJY1g0UhmuKF0htr3swLuSgRWrkUQHVtHkCyAHGC40NvJvtmJSAMHEcuALIQYc61x2VhfjbR_LNXKVc-kL8Tnw4nxRobFbIMhHmKlFEhzgh",
+              "googleMapsUri": "https://maps.google.com/?cid=919451775512048892",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqHX9JXXx1zN9b99rwBLzcmCK51dWdAWiv-yuzeGPeTznhHtbLc3FNeOmC46WFnkYX_u82iTm1SW4U17mcbaZM_xst6t5PNhC7o=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Hiking in Pamir Mountains",
+              "activityTitle": "Pamir Mountains Hike",
+              "activityDesc": "Scenic trails high altitudes",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Hiking in Pamir Mountains.jpg"
+            },
+            {
+              "activityRef": "Birdwatching",
+              "activityTitle": "Bird Watching",
+              "activityDesc": "Observe diverse bird species",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Birdwatching.jpg"
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "date": "2024-06-07",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Frunze Hypermarket",
+              "activityDesc": "Explore local products",
+              "photoUri": "places/ChIJaxF01lC2njgRoyLLomdzXvk/photos/AelY_Cue9WeLG0Lix6wBTujWJWs5RCUlXh0PII8YXFJU6EVnXNchNNMHsNl2e1wPQbiWAzwBwK3lpqYq3OSKsTbMr8hrcRHwQ5Lcs1SqNdJU-lw_V_OKFwJ00A6scThn2zOVxBW8yYdSh93Lb0mpvdwP-WoPUv814BnqNzA3",
+              "googleMapsUri": "https://maps.google.com/?cid=17968926452204905123",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqGV_sT30MMu3qZedWL4WIchYl4XYnSdYBHCcq-dHsWVMcNZV7O0S4MXIwacQIhSVzCAdsAfmhu33t3nxNM6jZzjy5t36IkE530=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Kyrgyzstan National Museum",
+              "activityTitle": "National Museum",
+              "activityDesc": "Learn about Kyrgyz history",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Kyrgyzstan National Museum.jpg"
+            },
+            {
+              "activityRef": "Bishkek Botanical Garden",
+              "activityTitle": "Botanical Garden",
+              "activityDesc": "Explore diverse plant species",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Bishkek Botanical Garden.jpg"
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "date": "2024-06-08",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Globus",
+              "activityDesc": "Supermarket with great deals",
+              "photoUri": "places/ChIJKSGdAOC1njgR-CI6JxhvYlk/photos/AelY_CvWPoXbJdCxZRkOairA0VPltbiH0bew40BkayEGJohN7vBFwUvU9BI0YiWgsq8F20AiRONkRECw4-4Qp2bxX0uMhKo8JtEAdMpJwdKyIYF4I653xHA9UBe1qCPgFQ8AtVwGW--Mzifa3hTy1gscm3916qY9nxCMZpE",
+              "googleMapsUri": "https://maps.google.com/?cid=6440832566621250296",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqHtmQAXKbpZ6g309zIZbZhorugy533w7g_jjgHUz8tJSKQseY7nHYbcdz3JenZpziLG6cWtByIaCvEgWQF7hFWrbwfoH-pjqw=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Osh Bazaar",
+              "activityTitle": "Osh Bazaar",
+              "activityDesc": "Vibrant marketplace experience",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Osh Bazaar.jpg"
+            },
+            {
+              "activityRef": "Sulayman Mountain",
+              "activityTitle": "Sulayman Mountain",
+              "activityDesc": "Explore ancient historical site",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Sulayman Mountain.jpg"
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "date": "2024-06-09",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Globus Supermarket",
+              "activityDesc": "Supermarket with local goods",
+              "photoUri": "places/ChIJp0DYf6_JnjgRjXq3uMlfFfY/photos/AelY_CsRaO14AbzvrUiEbMxZTZ6FUreu9aQ0-UrB2XSsrIIKNUNGE-wL-SUAi3SmVbK6O0CwJSE5QS1kFeN6opTzO9ee4W8sdFhdSUWdCLyk1gJ8r8QchMZyClIm-6vtCpBAxQGis_kEVpNsTtH6NKFSI0EB0f41hutfd64y",
+              "googleMapsUri": "https://maps.google.com/?cid=17732184427833293453",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqEXu-ex_u4hYpn-w5aeRMH1QI7GlT2xdq6d6hIG3pWLefktTsSrS-J25qUbmH6KerTPHC4kyHdWGfunA-0ehKjG0JIJ6ky-9H0=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Hiking in the Pamir Mountains",
+              "activityTitle": "Pamir Mountain Trek",
+              "activityDesc": "Explore rugged mountain terrain",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Hiking in the Pamir Mountains.jpg"
+            },
+            {
+              "activityRef": "Stargazing",
+              "activityTitle": "Stargazing",
+              "activityDesc": "Witness clear night skies",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Stargazing.jpg"
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "date": "2024-06-10",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Gipermarket Alma",
+              "activityDesc": "Supermarket with diverse options",
+              "photoUri": "places/ChIJVyVqyT3InjgRhGIlFHKXDlM/photos/AelY_CvTQMsPD0GZ6RdhS18e1UjX-Hdm0CGjcN1TEJpqhQHMHUMDsZHDv-ts2JWDE6U_-3wekZ47Ftl0ABTYneNPZrA4I5eBvaHxORu7gm8bKVvs2el9EQ69SsHOR69-AuluaahKRwRDnB9F4K7f15swf9VQS4iSAYrYdav8",
+              "googleMapsUri": "https://maps.google.com/?cid=5984887471042028164",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqGJoWRdxHkNWEq3onl0qcrim5rIoLDVm8gaOvmlN3viCenRD7EHBX-jldiTloNCKjpEwsNjNrB1TXs9RJdQXUgxfF5-PR1T8kQ=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Kara-Kul Lake",
+              "activityTitle": "Kara-Kul Lake",
+              "activityDesc": "Explore lake unique beauty",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Kara-Kul Lake.jpg"
+            },
+            {
+              "activityRef": "Sary-Chelek Lake",
+              "activityTitle": "Sary-Chelek",
+              "activityDesc": "Peaceful lake surrounded forest",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Sary-Chelek Lake.jpg"
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "date": "2024-06-11",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Globus",
+              "activityDesc": "Supermarket with fresh produce",
+              "photoUri": "places/ChIJCWvFRQW3njgREKVZ3jaUGl4/photos/AelY_CvXEJHr29HfzBYeYpE3bgvAloAP3k00rqwnZv7P5c4zp3iRM6YHKd6TSSMpGHW49UVXnAIp6aqksMHyTtTNdEuqcVcAFIByZcT7-nQHCFd8V2WdedpTCBE527gLhKdFoNB7exNIbpNQmP_WuuykZ-Rjz-zMgYZ76xs",
+              "googleMapsUri": "https://maps.google.com/?cid=6780895152339264784",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqHSug650mO-USuNBluBQZV7H0Xmau8CMjrMD7O9udu2j0ImXH6HMLlvbw1FxSSNHtj69d7NXZ8qQEym0Rs2br9HXhTmpkvsPQ=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Hiking in the Tian Shan",
+              "activityTitle": "Tian Shan Exploration",
+              "activityDesc": "Discover diverse mountain views",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Hiking in the Tian Shan.jpg"
+            },
+            {
+              "activityRef": "Picnic by a River",
+              "activityTitle": "Riverside Picnic",
+              "activityDesc": "Enjoy peaceful river setting",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Picnic by a River.jpg"
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "date": "2024-06-12",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Globus",
+              "activityDesc": "Supermarket with local snacks",
+              "photoUri": "places/ChIJh5Cb2QGvvTgRwk45kdJgyZY/photos/AelY_CvfAtwiT21482_U0ojrOtxtx8QGY9kcLi4Po7lbpWcvT6R5neDLmVW9sSAUtGdHO-7gzRNFh_NoZB8hLVvciYWcbaLj6ugFFC9G5zIb-h4pCMtLffGk7mejGEI37MWfNeAX5EOpKryxe75FXjLEpHXIS4xN7OGRABmA",
+              "googleMapsUri": "https://maps.google.com/?cid=10865322033503882946",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqG_61YlAy3F8z2gK-ZFwliXaQDnoVj6fJNsnOeBdmRafo5nI6g_XeSasaCeqWy49TpMq7Nz2jAUK1LHWdxAw0KRNAzTJaL-TWI=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Hiking in the Tian Shan",
+              "activityTitle": "Tian Shan Summit",
+              "activityDesc": "Challenge yourself on trails",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Hiking in the Tian Shan.jpg"
+            },
+            {
+              "activityRef": "Visit a Local Village",
+              "activityTitle": "Experience Village Life",
+              "activityDesc": "Immerse yourself in culture",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Visit a Local Village.jpg"
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "date": "2024-06-13",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Frunze",
+              "activityDesc": "Supermarket with local food",
+              "photoUri": "places/ChIJIzudF6muvTgRd69SwYYdDtk/photos/AelY_CuPBeYldGOf5swyDtZR_RhTebbq4GjA4SrOTyMLdiueOkuq1u4the3Uz0YwYp2TWvRqU8Dou-6_Ep612EhfORx0CU_pf9HUD2A66MMTFGDn9m6KQnVYd9ALAgQRgIcS8ttVDKIyx_sB6XdyTHMHqMBFWBCywiHQmryC",
+              "googleMapsUri": "https://maps.google.com/?cid=15640471020510556023",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqFUNoV1mm5QsP3oaLwHQYl3GQh_BmM9QlOsReiX5K9rC7Cd87nHG0F3hWpm6RC7vSe-43XKbzC6v4lw4nEh_P2rVyzTCi-tFak=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Hiking in the Pamir Mountains",
+              "activityTitle": "Pamir Mountain Views",
+              "activityDesc": "Discover unique mountain beauty",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Hiking in the Pamir Mountains.jpg"
+            },
+            {
+              "activityRef": "Photography",
+              "activityTitle": "Capture Nature's Beauty",
+              "activityDesc": "Take stunning landscape photos",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Photography.jpg"
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "date": "2024-06-14",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Frunze Hypermarket",
+              "activityDesc": "Supermarket with diverse options",
+              "photoUri": "places/ChIJRzgSWVzDnjgRipFMkcDN5Js/photos/AelY_CsXsA8OmXqCqcdLcIkSu5qhB9j2jFlEaRye6XqxUjFm3H04JT7cbIBDEIiB1EV3K_9703Ny_3Lt0w_0yEczHizKl8NRvkKx5QZHmRrhWy3nOg2ywrtrlNwMVpd8VOWC8R6CZCSiqWdoBCtUB55yctuIfTNXis1twl82",
+              "googleMapsUri": "https://maps.google.com/?cid=11233329597523988874",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqH5O2DFoLz1rpOsVQvTyfqv3HFy4lAs8S-GwKgpUqM4x3Fdu9QQ9D0bJ1w15_OzfQJ6IhRCJ3P8rIPSkXabUhAA6Pvp1A_c-ks=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Hiking in the Ala Archa National Park",
+              "activityTitle": "Ala Archa Exploration",
+              "activityDesc": "Discover scenic mountain trails",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Hiking in the Ala Archa National Park.jpg"
+            },
+            {
+              "activityRef": "Picnic in the Mountains",
+              "activityTitle": "Mountain Picnic",
+              "activityDesc": "Enjoy breathtaking views",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/ky-1_Picnic in the Mountains.jpg"
+            }
+          ]
+        }
+      ],
+      "itineraryImageUrl": "https://www.lonelyplanet.com/media/images/hero/1000x600/1000x600/11257848.jpg",
+      "placeRef": "ky-1"
+    },
+    {
+      "place": "Uzbekistan",
+      "itineraryName": "Uzbek Silk Road Adventure",
+      "startDate": "2024-05-15",
+      "endDate": "2024-05-28",
+      "tags": [
+        "central asia",
+        "silk road",
+        "history",
+        "nature",
+        "low cost"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "date": "2024-05-15",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Tashkent's Flavors",
+              "activityDesc": "Start your adventure with",
+              "photoUri": "places/ChIJJ0PANR6LrjgR5YYl67JQIrM/photos/AelY_CuMsxpS7lSWI8gVvWGAucDvl6G5tpCZvALlmlAChISixxkJh3K6mKVZD4Y566T2AEWrzLUoaKetoZ56otcNarybLvqK28vziVUt8woQMx_mTAAA73zzdFPC1p83NvLogqduyTtYEWB1Y3SKSchs-gLbUmL1F5-WCZJY",
+              "googleMapsUri": "https://maps.google.com/?cid=12907968211376768741",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqGgJh-LigAGCOtfdp2Q8_TJMEe_12DUaoK3o7LYqQH09spd-qiFHLIgOC9yd12o_AjSvuwFVco5swPD9fex7zXDn-IN08LD_Xo=s4800-w400-h400"
+            },
+            {
+              "activityRef": "sightseeing",
+              "activityTitle": "Explore Tashkent",
+              "activityDesc": "Discover the bustling capital",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_sightseeing.jpg"
+            },
+            {
+              "activityRef": "sightseeing",
+              "activityTitle": "Chorsu Bazaar",
+              "activityDesc": "Dive into a vibrant market",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_sightseeing.jpg"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "date": "2024-05-16",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Samarkand's Delights",
+              "activityDesc": "Enjoy authentic Uzbek food",
+              "photoUri": "places/ChIJVeEgpyaKrjgRgthf3qDnhNU/photos/AelY_Cs2yhRfTnjIZutV_-Zy_XBcBqszVWHpoktDV6BV-nIobV2CmRDof-yEYeCFpO00ZytBaOe8upndruYKxsTrOcavx1sP_wMF_a_FwUxecvzbgevRl8ihpppmUplTM3RQTBIrdcl_PRWGh24qBze2MzUzMs2pPdhk47Rs",
+              "googleMapsUri": "https://maps.google.com/?cid=15385676905116063874",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqGhmJuRw8e8KJixWQyygQCFQH7pqxLICNpv3fwjnVDW8Ss7gz1GOH2wbvYQcdSI-yvmZ4dtR6PkOdlupAFSUAOuc_sHwYJCg2A=s4800-w400-h400"
+            },
+            {
+              "activityRef": "sightseeing",
+              "activityTitle": "Registan Square",
+              "activityDesc": "Marvel at the intricate",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_sightseeing.jpg"
+            },
+            {
+              "activityRef": "sightseeing",
+              "activityTitle": "Gur-e Amir",
+              "activityDesc": "Visit the tomb of",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_sightseeing.jpg"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "date": "2024-05-17",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Bukhara's Culinary Journey",
+              "activityDesc": "Indulge in Bukhara's flavors",
+              "photoUri": "places/ChIJfQmDSs_0rjgRsPdr9w9egU4/photos/AelY_CstToNqZrWEj_hKG6RHRkVCpQ-vUATdahKxeddf3v4WIcnwQOsVpT3jt4oZbDJw-5VClGB8M_YqM_cWsyiEogev2xtdIoYRGhkx6Iw5bAzP9TxDptHvFI17mIeNR68u2AzhB8_LS2xEyNcS-kV6nVcnlS0DT1_H624n",
+              "googleMapsUri": "https://maps.google.com/?cid=5656906029622622128",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqFqXPaZ94Mat4kPU7e_B-PN9Cwxb1_aJPWKSUVnAWRJQoRLq4C7Wnhi4I-GG0xoX1PruYv1dyNXGR_2HtG5vARiGB-ASZhTP3I=s4800-w400-h400"
+            },
+            {
+              "activityRef": "sightseeing",
+              "activityTitle": "Poi Kalyan Complex",
+              "activityDesc": "Explore a religious",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_sightseeing.jpg"
+            },
+            {
+              "activityRef": "sightseeing",
+              "activityTitle": "Samani Mausoleum",
+              "activityDesc": "Admire the exquisite",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_sightseeing.jpg"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "date": "2024-05-18",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Khiva's Culinary Delights",
+              "activityDesc": "Discover Khiva's culinary",
+              "photoUri": "places/ChIJ24Sq0d_przgRWCCFUaIW_-E/photos/AelY_CuaBoxSU4XoKE38pmpOizzLv7fE8XlP03CA9dzNq-4wMW2VDg-m17K0jXD1xa0jNJh6Zsq2-AqzgVmZZ-15g8tFRK3JIaPtAUaDJEazxki9eWpgr8xzBseC2CNj5M0d_-UBl-1E-zDILWjZ4QE945bpgX4_1jDYKYCQ",
+              "googleMapsUri": "https://maps.google.com/?cid=16284759664003194968",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqG9appICM1Rl4gCGPVmyy7liSBFpY5ulXWwudJhEbbim9qlHYiwk8lLCsh9MQxjkjQlpiIfDUP_cTqAlgD-O6apoJqCc0TrN0c=s4800-w400-h400"
+            },
+            {
+              "activityRef": "sightseeing",
+              "activityTitle": "Itchan Kala",
+              "activityDesc": "Step into a walled",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_sightseeing.jpg"
+            },
+            {
+              "activityRef": "sightseeing",
+              "activityTitle": "Kalta Minor Minaret",
+              "activityDesc": "Admire the unfinished",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_sightseeing.jpg"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "date": "2024-05-19",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "The Charm of Ferghana Valley",
+              "activityDesc": "Enjoy the flavors of",
+              "photoUri": "places/ChIJNRy1mE6KrjgR6m-jQxonYS0/photos/AelY_Cvl4xII3LHAnaI11ziKcx0TihPYgN7eEH9rmifkBIocc6otsSkEKrAiOZs7TdC1HjFSrN5kKLWuZ-wRs1XriAx3CbuI-7wuA0mTI9DxL09DEQW4AXpJP-LmawEoQ2nyw8duJJeqbUkAq0DkKZXFcusa2GWE4edzBRnb",
+              "googleMapsUri": "https://maps.google.com/?cid=3269937798205108202",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqHWZ0eNo79KSdYwZv0-c3HJrfd95lkj-J6EAUsOXY-08Oba30EZFK5EzTZ2PqtU1in_HMMzQpbtWaga0FchZ_zskJ_CefSsj8s=s4800-w400-h400"
+            },
+            {
+              "activityRef": "nature",
+              "activityTitle": "Ferghana Valley Trek",
+              "activityDesc": "Hike through the lush",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_nature.jpg"
+            },
+            {
+              "activityRef": "nature",
+              "activityTitle": "Kokand's Beauty",
+              "activityDesc": "Explore the historic",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_nature.jpg"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "date": "2024-05-20",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Taste of Tashkent",
+              "activityDesc": "Experience traditional Uzbek",
+              "photoUri": "places/ChIJbYo9suH0rjgREYx9jowH5Xk/photos/AelY_CuFB_oObYMMv7GWwTs3Zc5HX1Asd5oPnSBcBuv0UPNoZ_rF5aWhxHfWqoEP9kIHvWJ0KkgpQst-7T0HHuK94mQxxkoNrVviPfQ1DaoXQFdMqtz0CWf_jnZRPm44o54_niHDVlr2jQV3O1FZb9czcTjEMUY5BJeAhjIv",
+              "googleMapsUri": "https://maps.google.com/?cid=8783434948523428881",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqGR-apHEki1gaBr8c8Upri97sgMgE0R9ItcAy8oXP7fR4ABEqjn2tD0sLorcvIK22kyD5Q3Lk4kdekqM54hRH7EdZp9encBPZg=s4800-w400-h400"
+            },
+            {
+              "activityRef": "sightseeing",
+              "activityTitle": "Tashkent Metro",
+              "activityDesc": "Ride the unique subway",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_sightseeing.jpg"
+            },
+            {
+              "activityRef": "sightseeing",
+              "activityTitle": "Amir Timur Museum",
+              "activityDesc": "Learn about the life",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_sightseeing.jpg"
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "date": "2024-05-21",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Samarkand's Market Feast",
+              "activityDesc": "Indulge in local",
+              "photoUri": "places/ChIJxTHSJxiLrjgRX2sIlHhN-fo/photos/AelY_CtrpVA0A6zkSYY_n4V5V_c-_g32jaiDpKnsElwoA5Dp9m_iZlRC_PGEzp6ENcHgNF9LOd0Wg0TEpmzjKCA9vTOmrKAtOnyhgv--2KIeSnM-Uc2LXlheCFF1HNrU3u4i8XIetW7_qG7gDJuNYTp-ctP4eKH2tM451wvu",
+              "googleMapsUri": "https://maps.google.com/?cid=18084570958957931359",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqGajtcwlojEh0uKmFOav36Ls4uHGy5eLAK38Fbr6wvQ8B-zWgE3rgevZEM14ks2uZjl6Sys9IBsoVK9sg_FOHY0KiAvFB5YCc8=s4800-w400-h400"
+            },
+            {
+              "activityRef": "nature",
+              "activityTitle": "Afrasiab Hill",
+              "activityDesc": "Hike for panoramic",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_nature.jpg"
+            },
+            {
+              "activityRef": "sightseeing",
+              "activityTitle": "Shah-i-Zinda",
+              "activityDesc": "Discover the necropolis",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_sightseeing.jpg"
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "date": "2024-05-22",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Bukhara's Culinary Gems",
+              "activityDesc": "Savor traditional Uzbek",
+              "photoUri": "places/ChIJ8eRML0SKrjgRVaIe8QHJ0ts/photos/AelY_CvCdvtwvDq4-H49GnbSZ3AWp2yMrO5XD7bfApo1HQwxtfy02AdCpnUUpZxzm7foafrLRsLx8u-N6sVUaWqNtItr_aecO_DyQcs6ujmMEDKlZ7gDqSrgE5SfU6u5Hr_0npM6miV11mmpG1-QbkUf9xdSE145pnURfpbm",
+              "googleMapsUri": "https://maps.google.com/?cid=15839943849592922709",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqHtEKvMKsj3AIxyBDZqiacyiKvvVG8TgQ23Lc5ZnEdB0DrZQMqFP0W8eX_c_6scw48Tca95QE3c_iiN7hcHpFBlLMnjjNvovXI=s4800-w400-h400"
+            },
+            {
+              "activityRef": "nature",
+              "activityTitle": "Bukhara's Green Oasis",
+              "activityDesc": "Relax in a peaceful",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_nature.jpg"
+            },
+            {
+              "activityRef": "sightseeing",
+              "activityTitle": "Chor Minor Madrasah",
+              "activityDesc": "Admire the unique",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_sightseeing.jpg"
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "date": "2024-05-23",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Khiva's Culinary Journey",
+              "activityDesc": "Experience authentic Khiva",
+              "photoUri": "places/ChIJx3W8qveKrjgR5SOwsvZe_Fo/photos/AelY_Cse14r6EUvBoZtoYQ5QECNTFezjhIutRIjzmoFnkYZgxAlqwyhlCan90Mkbda4tboG-2Dx2baYZUIqp7aJlmw16CuNPMH_m4vxUigDCFXS2GU431T9yQR0GpIh5d6TuK9XWnTl0gdRQrPPz2ZYuGQ4jRiQM-troei16",
+              "googleMapsUri": "https://maps.google.com/?cid=6556219571197453285",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqHQwSezsv1XkVHjy86Z33jC0qgVPtqPq2tCPJTvAoQ9s1GHBzai-r6Y9JLmJFUXSFkXtaEckyGOTGvxNro1Xtpy9-nuLyrDOv8=s4800-w400-h400"
+            },
+            {
+              "activityRef": "nature",
+              "activityTitle": "Khiva's Desert Escape",
+              "activityDesc": "Explore the Kyzylkum",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_nature.jpg"
+            },
+            {
+              "activityRef": "sightseeing",
+              "activityTitle": "Juma Mosque",
+              "activityDesc": "Visit the historic",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_sightseeing.jpg"
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "date": "2024-05-24",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "The Flavors of Ferghana",
+              "activityDesc": "Taste the regional",
+              "photoUri": "places/ChIJbZsaftiKrjgRl9SW1t4RK9U/photos/AelY_CveIPpw73oQ5VYHzrPV0XLbmPXIqfrd4rpVKJx2-i5Z9W2JRMod9PbisUk-NTM66i9_4qubIfghIJrz6_vSD9ug3avVC-UnTHBG2K8JrihGZToTF6XaiivwrT780gNQRZO0A6wO9siqtqLZdso0xrU5IJwM4uFiScRj",
+              "googleMapsUri": "https://maps.google.com/?cid=15360390602857829527",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqE8Jwti7Cvl0NmC7DuQaVnEsgmQsa-4zXf9ODDIRnZHk964GKGYp8n0uaP2UNV-0Kn39d6UNtF7eF-TA0pLN_BhoH5fBN5aZlY=s4800-w400-h400"
+            },
+            {
+              "activityRef": "sightseeing",
+              "activityTitle": "Ferghana Valley Heritage",
+              "activityDesc": "Discover the Silk Road",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_sightseeing.jpg"
+            },
+            {
+              "activityRef": "nature",
+              "activityTitle": "Rishtan Pottery",
+              "activityDesc": "Learn traditional pottery",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_nature.jpg"
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "date": "2024-05-25",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Tashkent's Local Fare",
+              "activityDesc": "Enjoy a traditional",
+              "photoUri": "places/ChIJ9VLCFaKLrjgRS52JEWk2-uo/photos/AelY_CugCt2eDHAaICEN8GvnIq3u5k-Oj6XcA1h_DRHdr7soGbDechgc2kGisEX8yNnnHCJcIdbYzzqp1eBcOJMGjTH3AMViA-OxdxxBLS4-N1RCkM91dPlZ9Metql6ROSfQMFY6OMpae9AH3fvUaZ9tEXFzjEbK4a_BrOuI",
+              "googleMapsUri": "https://maps.google.com/?cid=16931905573946498379",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqH4zJZ9w5_BSXtWMWm0pjHzuAfRcPJahxJ1vMkGQhCpP3ZC93lW5Qfp593YA_VKZZvAfi2LGRWOTkWHeAZeF1_imzy57UFJceE=s4800-w400-h400"
+            },
+            {
+              "activityRef": "sightseeing",
+              "activityTitle": "Tashkent Old City",
+              "activityDesc": "Explore the historical",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_sightseeing.jpg"
+            },
+            {
+              "activityRef": "sightseeing",
+              "activityTitle": "State Museum of Art",
+              "activityDesc": "Admire Uzbek art",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_sightseeing.jpg"
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "date": "2024-05-26",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Samarkand's Culinary Journey",
+              "activityDesc": "Discover Samarkand's",
+              "photoUri": "places/ChIJgx5xZ8eKrjgRy0mcRRRthgk/photos/AelY_CtV6vqN4dHFp29Jw520iSyAnoXZvzM0-yixx9hgQ6bJL7wGYI1In62UCqoJFqPr-fgp1zeITz52ujsA4tFd2ZjxBdBKvJsgltF0AlOn1Adn7lddFoooVSSugsqi-ev5k3vGLO-mOdrLigTthvaw0rXR8Fbmm511_Z9m",
+              "googleMapsUri": "https://maps.google.com/?cid=686355927055223243",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqEg63VJasYavHg9wlQakE4fS4VZ90cb8jIt_HSzNt5OcqV-Y7F3qxKzHnc8K87fa6MwlixfrF1SP2Z3INewYzymHt1aswDTWF8=s4800-w400-h400"
+            },
+            {
+              "activityRef": "nature",
+              "activityTitle": "Samarkand's Green Spaces",
+              "activityDesc": "Enjoy a relaxing",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_nature.jpg"
+            },
+            {
+              "activityRef": "sightseeing",
+              "activityTitle": "Ulugbek Observatory",
+              "activityDesc": "Explore the ancient",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_sightseeing.jpg"
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "date": "2024-05-27",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Bukhara's Market Delights",
+              "activityDesc": "Enjoy a flavorful",
+              "photoUri": "places/ChIJh28ACzXzrjgRdhRiz55v5-w/photos/AelY_Ctl4jtle6F7FtjAp5jfvEPwWDGqFQRqJLgS5D9ftfwA5kLgpVXx1_V5PbzpwxzkqxpAXbqcj0B6pHf9VT0nJGrwub2TKt0TWh_qWv5DEoIeqtvrAQcHJ1nc_RE6pwrYajzdUhnWilZgL_ArixgrKVyXiYXX160sCL4",
+              "googleMapsUri": "https://maps.google.com/?cid=17070735640445981814",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqGEylnJdKe4kKKgqjHwAI9gIjLgZdUjF8xnWqbarSlfEZfxXXp05IQuTW0131ZMw1T-VV9Aphu_JUfuzViKuntp8S9FhDL-Aw=s4800-w400-h400"
+            },
+            {
+              "activityRef": "sightseeing",
+              "activityTitle": "Bukhara's Historic Center",
+              "activityDesc": "Explore the ancient",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_sightseeing.jpg"
+            },
+            {
+              "activityRef": "nature",
+              "activityTitle": "Bukhara's Ancient Fortress",
+              "activityDesc": "Discover the ruins",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_nature.jpg"
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "date": "2024-05-28",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Khiva's Culinary Treasures",
+              "activityDesc": "Savor the taste of",
+              "photoUri": "places/ChIJM1b-EDP0rjgRrG55yN7EIFw/photos/AelY_CutOWIFm04QfYXXIrw9TrIfqUD4AVxIeNwPfZlANwsKVqk3BkuW38IC927fxL3XSJh4gmAxU8cprEdp-7CMveUdY9yoUAB8o3cxVeNIi52Ue5Lj7eykcUgFXKA4NEiKXRn37P6sHgKh79osAtOoCjCZUqqGPZkFVfFR",
+              "googleMapsUri": "https://maps.google.com/?cid=6638522311869296300",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqE0qqTyVNURLRZAU0NU9gUathqfWA5m9gcPV8YbxIYuU1QVepLHATGdKkCJ4le9xgx7Fwjpu38hKNttKHHZKb5-9VO343TA3IM=s4800-w400-h400"
+            },
+            {
+              "activityRef": "nature",
+              "activityTitle": "Khiva's Desert Oasis",
+              "activityDesc": "Explore the desert",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_nature.jpg"
+            },
+            {
+              "activityRef": "sightseeing",
+              "activityTitle": "Islam Khoja Minaret",
+              "activityDesc": "Admire the tallest",
+              "photoUri": null,
+              "googleMapsUri": null,
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/uz-1_sightseeing.jpg"
+            }
+          ]
+        }
+      ],
+      "itineraryImageUrl": "https://www.lonelyplanet.com/media/images/hero/1000x600/1000x600/11258074.jpg",
+      "placeRef": "uz-1"
+    },
+    {
+      "place": "Tajikistan",
+      "itineraryName": "Tajikistan's Majestic Mountains",
+      "startDate": "2024-05-15",
+      "endDate": "2024-05-28",
+      "tags": [
+        "nature",
+        "hiking",
+        "mountains",
+        "lakes",
+        "low cost",
+        "central asia"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "date": "2024-05-15",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Taste of Dushanbe",
+              "activityDesc": "Start your Tajik adventure",
+              "photoUri": "places/ChIJ0coE60LRtTgRJNNnRApNl9A/photos/AelY_CsKEV5Q25YM-eARKh49b84mrej8LnY4QTiwwtPshTme1PZ5lASRwxuK_Ns5ii62oyLK5gIPwRNSPcELCULb9ts1OpAsHdeELDPgCacU5PwNDgDLUP89QvWREKfN2GZQLlSUOGG5TDbNIDvB5KZi-rC8STkw2-3bdOT9",
+              "googleMapsUri": "https://maps.google.com/?cid=15030566987864986404",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqEDnRL8l-n_iBv_o_d5o-6LdzzunDBtBvU9hNQv_jSv5BBm--2LbRbSsg520rAwnDyJ0brUuTyM_WC2wZkKUUGXUnOCjk-oA3Y=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Hike to Iskanderkul Lake",
+              "activityTitle": "Hiking to Serenity",
+              "activityDesc": "Explore the beauty of nature",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Hike to Iskanderkul Lake.jpg"
+            },
+            {
+              "activityRef": "Visit the National Museum",
+              "activityTitle": "Delve into History",
+              "activityDesc": "Discover Tajikistan's rich past",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Visit the National Museum.jpg"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "date": "2024-05-16",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Savoring Khujand",
+              "activityDesc": "Experience the local cuisine",
+              "photoUri": "places/ChIJ3SCL6ZazsTgRHjekQ7SXz6g/photos/AelY_CvefNdm7Bqlj7cyowuqiiOuyAwj2BrQq28RDesp6qQm6A1fwIdfe60dCPXPNDjko6-K6OLI8I8tsUeXci8tYjrxOn16Es-zQkX3cYy9lsYkkqvZs3SuVM9RqX8SSC2eKJdX4S3Q0I_PuebOQG07HqTLrOgveG1QnN4N",
+              "googleMapsUri": "https://maps.google.com/?cid=12164107919035741982",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqE3jmnnaEXHk8lw2sRjltEXZnBw1H9wo8mUg6zpPSOJACPL2mne-IeVRG5Q_v5ypKI6PMnhXgEYyno_IS7mcatklaN9Ou-zdOI=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Visit the Khujand Fortress",
+              "activityTitle": "Exploring Ancient Walls",
+              "activityDesc": "Witness a historical marvel",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Visit the Khujand Fortress.jpg"
+            },
+            {
+              "activityRef": "Wander the Panj River",
+              "activityTitle": "Riverbank Relaxation",
+              "activityDesc": "Admire the natural beauty",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Wander the Panj River.jpg"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "date": "2024-05-17",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Delightful Dushanbe",
+              "activityDesc": "Indulge in a delicious meal",
+              "photoUri": "places/ChIJUZp1u1jRtTgRT7nE4qTtUck/photos/AelY_CuOedVDkmqsakXAQbOwCjXwPAIGoasKmZWXmxHXJg3bo1BAhlWdlnGbGunaC0iSZI5BmGxD5IcDSa-FQ1p-t1_4BG0oPVpreMy_6MKFCrjoXSFhgoUYONH94ig_pCBMA74zolryRs-jnYNXFF9uwnezGoyjM5MwQcjS",
+              "googleMapsUri": "https://maps.google.com/?cid=14506637167172041039",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqGtoDyMN5TpPC2ufzSP1dxWOzDA2vUp9M_vWE3x1vkqUdYiM1A5VUZCVAzfhsTug-mMbpT-LjcV3GFY6o8BVogAgYikcHGXCbk=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Trek to the Fan Mountains",
+              "activityTitle": "Hiking Amidst Peaks",
+              "activityDesc": "Discover breathtaking views",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Trek to the Fan Mountains.jpg"
+            },
+            {
+              "activityRef": "Visit the Bibi Khanym Mosque",
+              "activityTitle": "Architectural Splendor",
+              "activityDesc": "Experience Islamic artistry",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Visit the Bibi Khanym Mosque.jpg"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "date": "2024-05-18",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "A Taste of History",
+              "activityDesc": "Enjoy traditional flavors",
+              "photoUri": "places/ChIJNWZuATHStTgRwbibcKbhGWE/photos/AelY_CuvN9Wk_3guh_qB9h48IVg48C3ZQ26gsOy21B56BwO9nWPVrwDjTus5ulY4RZC2Uv0imsZbX4l3qML0vM4rOo5Sh54alhg7DUK2ZQ9j3ZglYLBivFOMCULtaE1F115_Lwpb0LWInVqPkk3MREJ7OjO0yTiBchHY4UUa",
+              "googleMapsUri": "https://maps.google.com/?cid=6996871601066850497",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqGmeO05OvrW0SbO0qVJrWsf07HaJDBIUr_w_AArohXWcixtm0uV42rUhfTFXoZiA4ewaBEwu7dEVvl6bYALaC7uLfxB2tHNiME=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Explore the Pamir Highway",
+              "activityTitle": "A Road Less Traveled",
+              "activityDesc": "Experience the scenic drive",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Explore the Pamir Highway.jpg"
+            },
+            {
+              "activityRef": "Visit the Shahristan Bazaar",
+              "activityTitle": "Bartering for Treasures",
+              "activityDesc": "Discover local handicrafts",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Visit the Shahristan Bazaar.jpg"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "date": "2024-05-19",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "A Fusion of Flavors",
+              "activityDesc": "Taste a unique blend",
+              "photoUri": "places/ChIJe9rNCUfRtTgRYjj8DwIdpO0/photos/AelY_CsFeV00ksLoR73LCCNboRNpfEaXUq-GueOzW221iQbQdipvZAUrKn9myIRffRhMRgammO_cO4B8i6vXG2WL0OiALroechQfX8J49YYCVHUjdVDYlifCqdv25GuuwNnxmTNcrP7HKzPtlL1Zib0CnkcVEbHgwvhaVApY",
+              "googleMapsUri": "https://maps.google.com/?cid=17123843577864796258",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqENEU8ScENgIxePpJA6x4vnbQVdmuV7ltnyW5CSqYDsuoQMa_THRkkHBZCHnntftg5iUo6tw4qXYKRJn6vqDjCa9IBCJWOqWA4=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Hike to the Sarez Lake",
+              "activityTitle": "Hiking to Serenity",
+              "activityDesc": "Admire the untouched lake",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Hike to the Sarez Lake.jpg"
+            },
+            {
+              "activityRef": "Visit the Nurek Dam",
+              "activityTitle": "Engineering Marvel",
+              "activityDesc": "Witness Tajikistan's power",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Visit the Nurek Dam.jpg"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "date": "2024-05-20",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "A Culinary Journey",
+              "activityDesc": "Discover new tastes",
+              "photoUri": "places/ChIJ4Y8QcfPQtTgRDjL8n7Kq440/photos/AelY_Ctcc5ZJmr6JDWIqqmqVzYkw9vu7S37jSGjy-QqzNf2ACFFJGT2FhDcNdr5G7cZgyAjZivl3gk5QsS2cxoFwmyr2pMTszwTLQ0R998eKBAtFaE7u6RiBsz_9MCiyfwh3BRNwq5JtXTcaJ9-cRrkR8iV-2MOCadJyRDjQ",
+              "googleMapsUri": "https://maps.google.com/?cid=10224203263226163726",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqEfXCote5FHKkLXtrQsU9BTABsbPkTjm5PqVY59-YGL14hjhWmiiX1dQutNWl3oWDIJtwMziOjXnGYpZGYU1tY6WZsRfX_LOzM=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Explore the Gorno-Badakhshan Region",
+              "activityTitle": "Adventure in the Pamirs",
+              "activityDesc": "Experience rugged beauty",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Explore the Gorno-Badakhshan Region.jpg"
+            },
+            {
+              "activityRef": "Visit the Khorog Bazaar",
+              "activityTitle": "Local Market Delights",
+              "activityDesc": "Find unique treasures",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Visit the Khorog Bazaar.jpg"
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "date": "2024-05-21",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "Tajik Delights",
+              "activityDesc": "Indulge in local flavors",
+              "photoUri": "places/ChIJ05V_3CLStTgRG63e_GLub6I/photos/AelY_Cu2opryNuSFb-F27cz1-ljvXgmk_4s4hPVNX5lmO4UnvRMV1v0oASqbmrkb-vhSgLU3J4Fcq1jJEjfMOVbr3HTKNKdkTggdFMHEiuFjlzwZOIyZhlExO26C11EoRxP33i3UtSOcejmQptNCeQwer_T88BYnMgw246fL",
+              "googleMapsUri": "https://maps.google.com/?cid=11704836065475865883",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqEDSVG99yWVVgPD2kKnXTQ7b3UdltHjYyIljU3hbN12lpizCatayv57MgX40smxjAj27PWK7R9hBx_4J0y-bG5nVKtnFyO2XZc=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Go birdwatching in the Pamirs",
+              "activityTitle": "Feathered Wonders",
+              "activityDesc": "Spot diverse birdlife",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Go birdwatching in the Pamirs.jpg"
+            },
+            {
+              "activityRef": "Visit the Murghab Valley",
+              "activityTitle": "Scenic Mountain Views",
+              "activityDesc": "Discover natural wonders",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Visit the Murghab Valley.jpg"
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "date": "2024-05-22",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "A Culinary Adventure",
+              "activityDesc": "Explore diverse cuisines",
+              "photoUri": "places/ChIJofU-FFzRtTgRlf4pnn3uXpg/photos/AelY_CtfAcTgTlF6ajiS7rHMbYgW9hNfHPpVJwv4sPQ-TY3Nu2qgZRa88nOwxDQpI-5OwqcPMkt4JlWpZv7hg8PY8Of3EylhFF8zAcwwvLJo7HmJepj83C4CfL477OawZ9HJ24u4yOvYf-IXW8d9jr94ZncoE6bdD4bx_CqH",
+              "googleMapsUri": "https://maps.google.com/?cid=10979475164867722901",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqEV2FxcKJWJkW7tcj8vsKkENjn1AarKUcBpOtpBmTaT2ZaK7vjobWwLIMvHOyvt7ZcctFUz2peN3dpmS3OqhRPQc92gFgP-6Ik=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Visit the Iskanderkul Lake",
+              "activityTitle": "Tranquility by the Lake",
+              "activityDesc": "Relax and soak in views",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Visit the Iskanderkul Lake.jpg"
+            },
+            {
+              "activityRef": "Go horseback riding in the mountains",
+              "activityTitle": "A Mountain Ride",
+              "activityDesc": "Explore trails on horseback",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Go horseback riding in the mountains.jpg"
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "date": "2024-05-23",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "A Delicious Stop",
+              "activityDesc": "Enjoy a hearty meal",
+              "photoUri": "places/ChIJy5iclZ3XtTgR8RjF-kpk6ZA/photos/AelY_Cu4xOnHH3pRD9dCxg-dkdKbXJQtIjsq9ywtCiZsgRC3on6VfWdWTCHfHt3snOYDuoW_xvc_1mX5gPmQxqDhwuXygiqeARkh0VEOWjleVoBVdSy1cuCL8v3hlLf51pId2mSyFki7kHfA9uACZGeZ-UAv-VJC93hgX2SY",
+              "googleMapsUri": "https://maps.google.com/?cid=10441987484232784113",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/default/dinerDefault.png"
+            },
+            {
+              "activityRef": "Hike to the Seven Lakes",
+              "activityTitle": "Nature's Beauty",
+              "activityDesc": "Explore hidden wonders",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Hike to the Seven Lakes.jpg"
+            },
+            {
+              "activityRef": "Visit the Varzob Gorge",
+              "activityTitle": "A Scenic Retreat",
+              "activityDesc": "Escape the city bustle",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Visit the Varzob Gorge.jpg"
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "date": "2024-05-24",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "A Culinary Delight",
+              "activityDesc": "Experience local cuisine",
+              "photoUri": "places/ChIJl-zO59_TtTgRkPJJr9r65RA/photos/AelY_CtJhyVCUImHH2UDJDlgdB1C-roIvZCWhHfPRr0R5VoJxNlBgZp3z0uH6iI0VxJgZCELu9F_A0k0_2V2wClPUK7NIkCHee2y_PoDJxysC3VEbqcCNt66ODXFMPbuSVhXrvCB-cg6GjR1XSQawGEsX4Bk42I5_L4rlpH7",
+              "googleMapsUri": "https://maps.google.com/?cid=1217655091424260752",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqEBxm6-06_OX5lKNNvNzCcGV0wbHcUQnpM96GKgiCFRzu7-Su1Ck1V8MR1jAYbRnRAhy-SJ9jRIKVjFnhhsVw5oG4Sjbs-T8eA=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Explore the Pamir Mountains",
+              "activityTitle": "Mountain Majesty",
+              "activityDesc": "Discover breathtaking views",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Explore the Pamir Mountains.jpg"
+            },
+            {
+              "activityRef": "Visit the Pamir Botanical Garden",
+              "activityTitle": "Floral Delights",
+              "activityDesc": "Explore nature's beauty",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Visit the Pamir Botanical Garden.jpg"
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "date": "2024-05-25",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "A Culinary Adventure",
+              "activityDesc": "Discover diverse flavors",
+              "photoUri": "places/ChIJzwiOXFzQtTgRS6Uhh3Fcm7U/photos/AelY_CuWOwzPyqFjxvlvjo6ww2ZUintr5iUJO2GcrV-sf_NRAa1JVTg6V9yzgC_e-ir8gGLEXPpNCMXXhP4JV3ZttJSmy2FHVeDxrH98E4QFFL-6YF_zvxeQJUjy8wl6Vx2xU7QaymAzJsFwHNSVNbAB2_cKqa4QgSygk55N",
+              "googleMapsUri": "https://maps.google.com/?cid=13086154784923297099",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqGFldHG7La90dXpoxerYygz4GFsBWCM-vpigv6rAmpLrGXTlYFi6g0-1wb8Ak8COqEjQEw8ZdDEpJw__c_fFUnikaD1OAVa3Fo=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Visit the Bartang Valley",
+              "activityTitle": "Mountain Valley Escape",
+              "activityDesc": "Experience natural beauty",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Visit the Bartang Valley.jpg"
+            },
+            {
+              "activityRef": "Go trekking in the Wakhan Corridor",
+              "activityTitle": "Hiking to the Border",
+              "activityDesc": "Explore remote landscapes",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Go trekking in the Wakhan Corridor.jpg"
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "date": "2024-05-26",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "A Taste of Tradition",
+              "activityDesc": "Enjoy local delicacies",
+              "photoUri": "places/ChIJ_ThHvjwbyjgRyDhOmkZJ_fk/photos/AelY_CtvNodC5XdFfq43AEw-moBi-7s1vNufimN5NHQZAsGcwpub-5v4yzWt0I4aQXRzfMTTnPJqy0T7y0YDU0n-Vhsb8nof1W9D8t6ngaP4SoM6R-sQ6tpIxuvPElQzt43H6k4E2uVzTjIFctxCh-6uVuyTbYH-lEuCk2AY",
+              "googleMapsUri": "https://maps.google.com/?cid=18013634652137208008",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqHdgwl-k-QYhfZwpPT6U1TN-axianxZCjJDe_jYBtuMHyYg-SmcMNx6EYjZqxRA3lkgLwJJoCMMYYgSH5eQtw18rInkj-N0k6M=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Visit the Afghan Border",
+              "activityTitle": "Cultural Crossroads",
+              "activityDesc": "Explore a unique region",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Visit the Afghan Border.jpg"
+            },
+            {
+              "activityRef": "Go birdwatching in the Wakhan Corridor",
+              "activityTitle": "Observing Wildlife",
+              "activityDesc": "Spot diverse birdlife",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Go birdwatching in the Wakhan Corridor.jpg"
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "date": "2024-05-27",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "A Local Gem",
+              "activityDesc": "Enjoy authentic flavors",
+              "photoUri": "places/ChIJc_5kf_XQtTgRWA9oFT1pgKQ/photos/AelY_Cuwwyee_iL2Oug-lCUCysrZnUpEDnSzKwxmySJ_3qzvsJw5I-aco9VDKHLnPLh-imDy6rMYlsO2sOHAndYSyZd_w8ftxw--REmIygoTmjEg2C_IXIzC0ba9SNgHKjW8zRnW12qnywp_fd_QpWLOxvGi-mdBLC2966Wi",
+              "googleMapsUri": "https://maps.google.com/?cid=11853589930312208216",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqH6ra1c_97tkPN8fdW__9ASAgJE3GPtKcJz4hdcQ-OWfFngyVkYi95Lcck93cQyw81_E51ApLUyi_2iHUi2EVMP2i4NnUGa4SY=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Explore the Kalaikhum Lake",
+              "activityTitle": "Mountain Lake Serenity",
+              "activityDesc": "Discover hidden beauty",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Explore the Kalaikhum Lake.jpg"
+            },
+            {
+              "activityRef": "Visit the Pamir Museum",
+              "activityTitle": "Regional History",
+              "activityDesc": "Learn about the Pamirs",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Visit the Pamir Museum.jpg"
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "date": "2024-05-28",
+          "planForDay": [
+            {
+              "activityRef": "restaurant",
+              "activityTitle": "A Final Feast",
+              "activityDesc": "Celebrate your journey",
+              "photoUri": "places/ChIJxTYlvW7TtTgRBfIRp_FfvuY/photos/AelY_CsWKpBdnzkEdjf2peLDfHFKqYOtZnIa58U7_PmUdfaSw-Ad7M-LPxDl3gczWjyYPX4jlIItOmx-uL2UVuY7hZ4_v8PQ7p08DbauVecbehNJMc5G6KyRmyyZAGBJPsihgj1QKlsux7LY4wbu9eqDQ5N8oEe9IuJEbVm7",
+              "googleMapsUri": "https://maps.google.com/?cid=16626832365793178117",
+              "imgUrl": "https://lh3.googleusercontent.com/places/ANXAkqGcr5TXZrdrbiPxTXn9Bg-G1YyP1ygLVymJaDhz19_juQ5d8ZmD4sovPsPF2gKELu_n2gdDuGSJyqUfHExuRu34geErlMMmkow=s4800-w400-h400"
+            },
+            {
+              "activityRef": "Relax and Reflect",
+              "activityTitle": "Memories of Mountains",
+              "activityDesc": "Reflect on your adventure",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Relax and Reflect.jpg"
+            },
+            {
+              "activityRef": "Departure from Tajikistan",
+              "activityTitle": "Farewell to Beauty",
+              "activityDesc": "Say goodbye to Tajikistan",
+              "imgUrl": "https://storage.googleapis.com/compass-imgs/activities/tj-1_Departure from Tajikistan.jpg"
+            }
+          ]
+        }
+      ],
+      "itineraryImageUrl": "https://www.lonelyplanet.com/media/images/hero/1000x600/1000x600/11258075.jpg",
+      "placeRef": "tj-1"
+    }
+  ]
+}

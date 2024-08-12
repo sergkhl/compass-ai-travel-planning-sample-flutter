@@ -14,7 +14,8 @@
  * limitations under the License.
  */
 
-import { itineraryGenerator2 } from "./itineraryGenerator";
-import { textRefinement } from "./textRefinement";
+import { itineraryGenerator2 } from './itineraryGenerator'
+import { textRefinement } from './textRefinement'
+import { itineraryCraft } from './itineraryCraft'
 
-export {itineraryGenerator2, textRefinement};
+export { itineraryGenerator2, textRefinement, itineraryCraft }
